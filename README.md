@@ -1,5 +1,16 @@
 # 💫 About Me:
-🔭 I’m currently working on building scalable cloud infrastructure and automating deployment pipelines using DevOps best practices<br><br>👯 I’m looking to collaborate on building a tech product that solves real-world problems using cloud, automation, and data-driven architecture<br><br>🤝 I’m looking for help with advanced cloud architecture, distributed systems, and production-grade system design<br><br>🌱 I’m currently learning Data Engineering, focusing on ETL pipelines, data workflows, and big data tools alongside DevOps<br><br>💬 Ask me about AWS, CI/CD pipelines, Docker, Kubernetes, Infrastructure as Code (Terraform), and system reliability<br><br>⚡ Fun fact: I enjoy turning complex systems into simple, automated workflows that scale effortlessly
+🔭 Architecting scalable cloud infrastructures and automating resilient deployment pipelines with DevOps excellence
+
+👯 Open to collaborating on impactful tech products leveraging cloud, automation, and data-driven systems
+
+🤝 Seeking deeper exposure to advanced cloud architecture, distributed systems, and production-grade design
+
+🌱 Currently advancing in Data Engineering — building robust ETL pipelines and scalable data workflows alongside DevOps
+
+💬 Let’s talk about AWS, CI/CD, Docker, Kubernetes, Terraform, and system reliability
+
+⚡ I thrive on transforming complex systems into elegant, scalable, and fully automated solutions
+
 
 
 ## 🌐 Socials:
